@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\bin\Debug\GradingStudents.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\bin\Debug\GradingStudents.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\bin\Debug\GradingStudents.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\obj\Debug\GradingStudents.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\GradingStudents\GradingStudents\obj\Debug\GradingStudents.pdb

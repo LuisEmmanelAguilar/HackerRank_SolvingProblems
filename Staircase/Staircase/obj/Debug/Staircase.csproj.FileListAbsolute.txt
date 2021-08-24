@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\bin\Debug\Staircase.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\obj\Debug\Staircase.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\obj\Debug\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\obj\Debug\Staircase.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\Staircase\Staircase\obj\Debug\Staircase.pdb

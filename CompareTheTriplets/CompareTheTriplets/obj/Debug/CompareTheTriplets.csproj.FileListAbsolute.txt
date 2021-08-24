@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.pdb

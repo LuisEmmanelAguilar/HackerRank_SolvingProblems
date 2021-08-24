@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\bin\Debug\BreakingTheRecords.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BreakingTheRecords\BreakingTheRecords\obj\Debug\BreakingTheRecords.pdb

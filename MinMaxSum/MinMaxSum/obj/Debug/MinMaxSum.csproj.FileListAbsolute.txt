@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\bin\Debug\MinMaxSum.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\bin\Debug\MinMaxSum.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\bin\Debug\MinMaxSum.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\MinMaxSum\MinMaxSum\obj\Debug\MinMaxSum.pdb

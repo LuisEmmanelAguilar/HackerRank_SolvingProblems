@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.pdb

@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\bin\Debug\BetweenTwoSets.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\BetweenTwoSets\BetweenTwoSets\obj\Debug\BetweenTwoSets.pdb
