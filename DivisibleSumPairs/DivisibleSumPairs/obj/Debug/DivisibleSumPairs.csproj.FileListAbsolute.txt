@@ -1,0 +1,8 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.SuggestedBindingRedirects.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.AssemblyReference.cache
