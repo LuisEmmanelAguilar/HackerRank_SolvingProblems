@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39b210db-11ae-4735-a73e-b800c62fe0ba": {
+      "ProjectGuid": "39b210db-11ae-4735-a73e-b800c62fe0ba",
+      "DisplayName": "MigratoryBirds",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

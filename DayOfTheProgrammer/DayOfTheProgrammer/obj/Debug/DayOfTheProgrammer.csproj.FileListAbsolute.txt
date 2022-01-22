@@ -1,0 +1,8 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\DayOfTheProgrammer.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csproj.AssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csproj.SuggestedBindingRedirects.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\DayOfTheProgrammer.pdb
