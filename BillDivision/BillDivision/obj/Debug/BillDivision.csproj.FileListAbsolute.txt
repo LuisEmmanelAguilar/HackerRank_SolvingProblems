@@ -1,0 +1,8 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\bin\Debug\BillDivision.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\bin\Debug\BillDivision.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\bin\Debug\BillDivision.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\obj\Debug\BillDivision.csproj.AssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\obj\Debug\BillDivision.csproj.SuggestedBindingRedirects.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\obj\Debug\BillDivision.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\obj\Debug\BillDivision.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\BillDivision\BillDivision\obj\Debug\BillDivision.pdb
