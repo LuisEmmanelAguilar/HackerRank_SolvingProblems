@@ -1,0 +1,8 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.SuggestedBindingRedirects.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.AssemblyReference.cache

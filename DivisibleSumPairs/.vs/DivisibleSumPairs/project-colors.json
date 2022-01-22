@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e20086bb-3793-4db5-91a4-5e69229ba0de": {
+      "ProjectGuid": "e20086bb-3793-4db5-91a4-5e69229ba0de",
+      "DisplayName": "DivisibleSumPairs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
