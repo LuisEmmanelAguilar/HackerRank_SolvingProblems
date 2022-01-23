@@ -1,0 +1,8 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\bin\Debug\SalesByMatch.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\bin\Debug\SalesByMatch.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\bin\Debug\SalesByMatch.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\obj\Debug\SalesByMatch.csproj.AssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\obj\Debug\SalesByMatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\obj\Debug\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\obj\Debug\SalesByMatch.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_SolvingProblems\SalesByMatch\SalesByMatch\obj\Debug\SalesByMatch.pdb
